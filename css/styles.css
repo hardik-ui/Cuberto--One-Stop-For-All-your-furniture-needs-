@@ -29,8 +29,7 @@ p
 }
 
 .top-content
-{ font-family: 'Bad Script', cursive;  font-size: 3rem;  line-height: 1.5;
- padding-top: 20px;
+{ font-family: 'Bad Script', cursive;  font-size: 3rem;  line-height: 1.5; padding-top: 20px;
     padding-left: 10px;
 }
 
@@ -108,8 +107,7 @@ p
 
 #testimonials
 {
-    text-align: center;  color: #fff;
- background-color: #cc561e;
+    text-align: center;  color: #fff; background-color: #cc561e;
 }
 
 .carousel-item
@@ -119,27 +117,23 @@ p
 
 .person-profile1
 {
-    width: 25%;  margin: 20px;
- border-radius: 100%;
+    width: 25%;  margin: 20px; border-radius: 100%;
 }
 
 .person-profile2
 {
-    width: 15%;  margin: 20px;  padding-bottom: 19px;
- border-radius: 100%;
+    width: 15%;  margin: 20px;  padding-bottom: 19px; border-radius: 100%;
 }
 
 .person-profile3
 {
-    width: 30%;  margin: 20px;  padding-bottom: 70.4px;
- border-radius: 100%;
+    width: 30%;  margin: 20px;  padding-bottom: 70.4px; border-radius: 100%;
 }
 
 /* Press-section */
 
 #press
-{ padding-bottom: 3%;
- text-align: center;
+{ padding-bottom: 3%; text-align: center;
 
     background-color: #cc561e;
 }
@@ -150,7 +144,8 @@ p
 }
 
 .press-img2{
-  width: 5%;
+  width: 9%;
+  padding-right: 20px;
 }
 
 /* pricing-section */
@@ -174,24 +169,21 @@ p
 
     .front-img
     {
-        position: static;  width: 80%;  height: 115%;  padding-bottom: 150px;
- transform: rotate(0);
+        position: static;  width: 80%;  height: 115%;  padding-bottom: 150px; transform: rotate(0);
     }
 }
 
 /* CTA section */
 
 #cta
-{ padding: 8rem 0 5rem;
- text-align: center;
+{ padding: 8rem 0 5rem; text-align: center;
 
     background-color: #ef8d32;
 }
 
 .cta-txt
 {
-    font-size: 350%;  line-height: 1.5;
- color: #fff;
+    font-size: 350%;  line-height: 1.5; color: #fff;
 }
 
 /* footer-section */
