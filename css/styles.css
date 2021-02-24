@@ -25,7 +25,7 @@ p
 
 #title
 { color: #fff;
-    background-color: #85603f; 
+    background-color: #85603f;
 }
 
 .top-content
@@ -141,6 +141,10 @@ p
 .press-img
 {
     width: 15%;  margin: 20px 20px 50px;
+}
+
+.press-img2{
+  width: 7%;
 }
 
 /* pricing-section */
